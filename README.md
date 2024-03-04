@@ -11,8 +11,10 @@ Such as `my_game = BugStomp(219, "User Name", "API Key", 30, 30)` or `game = Rac
 <img src="pictures/Bridges_profile.jpg" width="1200">  
 
 # Game1: BUGSTOMP   
-This is a game about man catching a bug by using :arrow_up_small::arrow_down_small::arrow_backward::arrow_forward:  
-When the man touch the bug you will get 1 point  
+Bugstomp is a very simple game on a 30x30 grid, where the background is all black and all symbols are white. The character controlled by the player is shown using the 'man' symbol and the bug to stomp is shown using the 'bug3' symbol.  
+  
+This is a game about man catching a bug by using :arrow_up_small::arrow_down_small::arrow_backward::arrow_forward: 
+When the man touch the bug, you will get 1 point  
 The game will end when you get 10 points  
 >[!NOTE]
 > Of course you can adjust parameter by yourself!  
