@@ -4,4 +4,5 @@ BRIDGES can easily help you to start out the python in a interesting way
 You should install bridges packages by `pip3 install bridges` or `conda install bridges`in Anaconda prompt  
 Or you can follow [BRIDGES official guideline](https://bridgesuncc.github.io/bridges_setup.html)
 
-#
+# Game1: BUGSTOMP
+![picture1](/../pictures/BUGSTOMP.png)
