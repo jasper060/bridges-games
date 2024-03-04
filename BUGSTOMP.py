@@ -4,7 +4,7 @@ from bridges import *
 
 #Think about an object like a bankaccount...a bankaccount has a balance (at a minimum)
 #A bankaccount has specific behaviors: deposit, withdraw, print balance
-#Instead of having lots of code that is randomly distributed around a file, we can organize it in a class
+#Instead of having lots of code that is randomly distributed around a file, we can organize it
 
 
 class BugStomp(NonBlockingGame):
