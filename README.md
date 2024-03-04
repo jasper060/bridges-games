@@ -1,9 +1,10 @@
 # Introduction about [bridges-games](http://bridges-games.herokuapp.com/)
-BRIDGES can easily help you to start out the python in a interesting way
+BRIDGES can easily help you to start out the python in a interesting way  
+Link: [The official tutorial](https://bridgesuncc.github.io/tutorials/NonBlockingGame.html)  
 ## How to prepare environment?
 You should install bridges packages by `pip3 install bridges` or `conda install bridges`in Anaconda prompt  
 Or you can follow [BRIDGES official guideline](https://bridgesuncc.github.io/bridges_setup.html)  
-## The parameter in the code
+## The parameter in my code
 There are some parameters in my code you should change by yourself  
 Such as `my_game = BugStomp(219, "User Name", "API Key", 30, 30)` or `game = RaceCar(221, "User Name", "API Key")`  
 `User Name` and `API Key` are belongs to your BRIDGES account  
