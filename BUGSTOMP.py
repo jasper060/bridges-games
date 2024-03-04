@@ -1,9 +1,7 @@
 import random
-
+#You should install bridges
 from bridges import *
 
-#This program uses a class. We will learn about these later in the course.
-#A class is used to separate an object's information and behavior.
 #Think about an object like a bankaccount...a bankaccount has a balance (at a minimum)
 #A bankaccount has specific behaviors: deposit, withdraw, print balance
 #Instead of having lots of code that is randomly distributed around a file, we can organize it in a class
@@ -211,7 +209,7 @@ class BugStomp(NonBlockingGame):
 #Driver of the game
 def main():
     # create game class with bridges credentials
-    my_game = BugStomp(219, "cshen", "870870060412", 30, 30)
+    my_game = BugStomp(219, "User Name", "API Key", 30, 30)
     my_game.start()
 
 
