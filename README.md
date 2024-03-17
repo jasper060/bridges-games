@@ -11,7 +11,7 @@ Such as `my_game = BugStomp(219, "User Name", "API Key", 30, 30)` or `game = Rac
   
 <img src="pictures/Bridges_profile.jpg" width="1200">  
 
-# Game1: BUGSTOMP.py   
+# Game1: [BUGSTOMP.py](https://github.com/jasper060/bridges-games/blob/main/BUGSTOMP.py)   
 Bugstomp is a very simple game on a 30x30 grid, where the background is all black and all symbols are white. The character controlled by the player is shown using the 'man' symbol and the bug to stomp is shown using the 'bug3' symbol.  
   
 This is a game about man catching a bug by using :arrow_up_small::arrow_down_small::arrow_backward::arrow_forward: 
@@ -20,4 +20,9 @@ The game will end when you get 10 points
 >[!NOTE]
 > Of course you can adjust parameter by yourself!  
 <img src="/pictures/BUGSTOMP.png" width="400">  
+
+# Game2: [racingCar.py](https://github.com/jasper060/bridges-games/blob/main/racingCar.py)
+The triangle is the car (you can use a different symbol). The road moves over from right :arrow_forward: to left :arrow_backward: . The user has to move the car to adjust to the road. When the car overlay the margin of the road, the game will end.  
+
+<img scr="/pictures/racingCar.png" width = "400">
 
