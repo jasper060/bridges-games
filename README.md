@@ -21,5 +21,3 @@ The game will end when you get 10 points
 > Of course you can adjust parameter by yourself!  
 <img src="/pictures/BUGSTOMP.png" width="400">  
 
-# google
-<head><meta name="google-site-verification" content="4ziWMKRvitalQMz9Pd6aGrU3wpsUyyIKaep_JNnPtuE" />
