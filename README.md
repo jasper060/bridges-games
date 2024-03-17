@@ -1,4 +1,4 @@
-# Introduction about [bridges-games](http://bridges-games.herokuapp.com/)
+# Introduction about [bridges-games](http://bridges-games.herokuapp.com/)  
 BRIDGES can easily help you to start out the python in a interesting way  
 Link: [The official tutorial](https://bridgesuncc.github.io/tutorials/NonBlockingGame.html)  
 ## How to prepare environment?
@@ -20,3 +20,6 @@ The game will end when you get 10 points
 >[!NOTE]
 > Of course you can adjust parameter by yourself!  
 <img src="/pictures/BUGSTOMP.png" width="400">  
+
+# google
+<head><meta name="google-site-verification" content="4ziWMKRvitalQMz9Pd6aGrU3wpsUyyIKaep_JNnPtuE" />
