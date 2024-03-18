@@ -21,8 +21,7 @@ The game will end when you get 10 points
 > Of course you can adjust parameter by yourself!  
 <img src="/pictures/BUGSTOMP.png" width="400">  
 
-# Game2: [racingCar.py](https://github.com/jasper060/bridges-games/blob/main/racingCar.py)
+
+# Game2: [racingCar.py](https://github.com/jasper060/bridges-games/blob/main/racingCar.py)  
 The triangle is the car (you can use a different symbol). The road moves over from right :arrow_forward: to left :arrow_backward: . The user has to move the car to adjust to the road. When the car overlay the margin of the road, the game will end.  
-
-<img scr="/pictures/racingCar.png" width = "400">  
-
+<img src="/pictures/racingCar.png" width="400">  
