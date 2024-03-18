@@ -138,7 +138,7 @@ class RaceCar(NonBlockingGame):
 
 
 def main():
-    game = RaceCar(221, "cshen", "870870060412")
+    game = RaceCar(221, "User Name",  "API Key")  
     # Start the game
     game.start()
 
